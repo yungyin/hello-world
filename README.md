@@ -1,3 +1,10 @@
 # hello-world
 My first Github repository
-Make some changes
+
+Programming in C++:
+ - Compile: g++ -o helloworld hello-world.cpp
+ - Execute: ./helloworld 
+
+Programming in Java:
+ - Compile: javac MyProgram.java
+ - Execute: java MyProgram
